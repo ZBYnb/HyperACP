@@ -5,7 +5,7 @@ Currently, it can be accessed through: http://www.hyperacp.com/model_predict to 
 The ACP_data file contains data.  
 The ANBS file contains the ANBS sampling algorithm.  
 The final model stores the trained model parameters.  
-##Note:！！！
+## Note:！！！
 The actual number of positive and negative samples for ACP99 is 194 each. The annotation in the text is incorrect, but it has no impact on any of the experiments or results.
 ## Contact  
 zhangbangyi@stu.jiangnan.edu.cn  
